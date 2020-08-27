@@ -7,10 +7,10 @@
 
 > asp.net, Microsoft SQL Server, MVC, bootstrap
 
-<img src="https://user-images.githubusercontent.com/53194850/91481840-b9a7f580-e8ad-11ea-996d-2e2285d8fd10.png" data-canonical-src="https://user-images.githubusercontent.com/53194850/91481840-b9a7f580-e8ad-11ea-996d-2e2285d8fd10.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/53194850/91481840-b9a7f580-e8ad-11ea-996d-2e2285d8fd10.png" data-canonical-src="https://user-images.githubusercontent.com/53194850/91481840-b9a7f580-e8ad-11ea-996d-2e2285d8fd10.png"  height="400" />
 
 
-<img src="https://user-images.githubusercontent.com/53194850/91481846-bad92280-e8ad-11ea-8218-b78f63661c50.png" data-canonical-src="https://user-images.githubusercontent.com/53194850/91481846-bad92280-e8ad-11ea-8218-b78f63661c50.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/53194850/91481846-bad92280-e8ad-11ea-8218-b78f63661c50.png" data-canonical-src="https://user-images.githubusercontent.com/53194850/91481846-bad92280-e8ad-11ea-8218-b78f63661c50.png"  height="400" />
 
 
 
